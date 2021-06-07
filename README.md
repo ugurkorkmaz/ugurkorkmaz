@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/ugurkorkmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugurkorkmaz" height="30" width="40" /></a>
 <a href="https://instagram.com/ugurkorkmaztr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugurkorkmaztr" height="30" width="40" /></a>
-<a href="/https://ugurkorkmaz.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ugurkorkmaz.com/rss" height="30" width="40" /></a>
+<a href="https://ugurkorkmaz.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ugurkorkmaz.com/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

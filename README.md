@@ -5,21 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ugurkorkmaz" target="blank"><img src="https://img.shields.io/twitter/follow/ugurkorkmaz?logo=twitter&style=for-the-badge" alt="ugurkorkmaz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ugurkorkmaz.com](https://ugurkorkmaz.com)
-
-- 📝 I regularly write articles on [https://ugurkorkmaz.com](https://ugurkorkmaz.com)
-
-- 📫 How to reach me **pm@ugurkorkmaz.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ugurkorkmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugurkorkmaz" height="30" width="40" /></a>
 <a href="https://instagram.com/ugurkorkmaztr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugurkorkmaztr" height="30" width="40" /></a>
-<a href="https://ugurkorkmaz.com/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://ugurkorkmaz.com/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Uğur Korkmaz</h1>
+<h1>Hi 👋, I'm Uğur Korkmaz</h1>
+<p align="left">I like to work on platforms that are innovative, powerful, and flexible enough. I've always been knowledgeable about this in the software industry. Now I want to develop quality and innovative projects with people I meet from my computer. I want to leave a mark on this universe.
+</p>
+<hr/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurkorkmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ugurkorkmaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugurkorkmaz" alt="ugurkorkmaz" /></a> </p>

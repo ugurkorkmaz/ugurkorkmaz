@@ -1,6 +1,4 @@
 <h1>Hi 👋, I'm Uğur Korkmaz</h1>
-<p align="left">I like to work on platforms that are innovative, powerful, and flexible enough. I've always been knowledgeable about this in the software industry. Now I want to develop quality and innovative projects with people I meet from my computer. I want to leave a mark on this universe.
-</p>
 
 <p align="left"> <a href="https://twitter.com/ugurkorkmaz" target="blank"><img src="https://img.shields.io/twitter/follow/ugurkorkmaz?logo=twitter&style=for-the-badge" alt="ugurkorkmaz" /></a> </p>
 

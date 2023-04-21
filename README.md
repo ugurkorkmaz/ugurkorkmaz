@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 As an experienced Full Stack Software Developer, I bring a wealth of knowledge and expertise to the table, with fluency in various programming languages and tools such as PHP, Symfony, Golang, Gqlgen, GraphQL, Docker, Tailwindcss, Svelte, and Sveltekit.<br><br>My passion lies in harnessing the power of GraphQL to develop high-performance and flexible APIs, while utilizing Docker to streamline the testing, deployment, and management of applications. I take pride in building fast and interactive web applications using Svelte/Sveltekit, ensuring that they are optimized for speed and responsiveness.<br><br>Throughout my professional journey, I have always put my clients' needs first, adopting a solution-focused approach to deliver customized and reliable solutions that meet their unique requirements. I place great emphasis on maintaining clean and readable code, which facilitates team collaboration and ensures streamlined project completion.<br><br>If you're interested in exploring my software development skills further, please don't hesitate to get in touch with me via my LinkedIn profile.
 
 ## 🌐 Socials:
